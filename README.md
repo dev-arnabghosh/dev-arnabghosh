@@ -141,6 +141,10 @@ End-to-end development across **backend, frontend, mobile, APIs, databases, and 
 
 **React Native · Navigation · State Management · Theming · Reusable Architecture**
 
+### ♻️ Reusable Component Architecture
+
+Creating reusable components and patterns that improve **maintainability, consistency, and development efficiency**.
+
 </td>
 
 <td width="50%" valign="top">
@@ -160,20 +164,6 @@ Debugging across **UI → State → API → Service → DAO → Database** layer
 ### 🤖 AI-powered Application Features
 
 Experience integrating **chatbot, voice input/output, AI suggestions, and page automation** into applications.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ♻️ Reusable Component Architecture
-
-Creating reusable components and patterns that improve **maintainability, consistency, and development efficiency**.
-
-</td>
-
-<td width="50%" valign="top">
 
 ### ♿ Accessibility-focused UI
 
