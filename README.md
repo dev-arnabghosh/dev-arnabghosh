@@ -125,49 +125,84 @@ My current career focus is **Full Stack Development with AI-powered applications
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Full Stack Development
+<h3>🚀 Full Stack Development</h3>
 
-End-to-end development across **backend, frontend, mobile, APIs, databases, and application integration**.
-
-### ⚙️ Backend Development
-
-**Java · Spring Framework · Spring Boot · Spring MVC · Spring Data JPA · Hibernate · REST APIs · Microservices**
-
-### 🎨 Frontend Development
-
-**React · Redux · JavaScript · TypeScript · HTML5 · CSS3 · MUI · Tailwind CSS**
-
-### 📱 Mobile Development
-
-**React Native · Navigation · State Management · Theming · Reusable Architecture**
-
-### ♻️ Reusable Component Architecture
-
-Creating reusable components and patterns that improve **maintainability, consistency, and development efficiency**.
+End-to-end development across <strong>backend, frontend, mobile, APIs, databases, and application integration</strong>.
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🔌 REST API Development
+<h3>⚙️ Backend Development</h3>
 
-Developing and integrating APIs to connect **frontend, backend, and application services**.
+<strong>Java · Spring Framework · Spring Boot · Spring MVC · Spring Data JPA · Hibernate · REST APIs · Microservices</strong>
 
-### 🏗️ Application Architecture
+</td>
+</tr>
 
-Designing **reusable, scalable, maintainable application structures** with consistent routing, navigation, state management, and theming.
+<tr>
+<td width="50%" valign="top">
 
-### 🐞 Debugging & Troubleshooting
+<h3>🎨 Frontend Development</h3>
 
-Debugging across **UI → State → API → Service → DAO → Database** layers, including JSP, Backing Bean, SQL, and PL/SQL.
+<strong>React · Redux · JavaScript · TypeScript · HTML5 · CSS3 · MUI · Tailwind CSS</strong>
 
-### 🤖 AI-powered Application Features
+</td>
+<td width="50%" valign="top">
 
-Experience integrating **chatbot, voice input/output, AI suggestions, and page automation** into applications.
+<h3>📱 Mobile Development</h3>
 
-### ♿ Accessibility-focused UI
+<strong>React Native · Navigation · State Management · Theming · Reusable Architecture</strong>
 
-Building **responsive, accessible, usable, and user-focused interfaces** across web applications.
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🔌 REST API Development</h3>
+
+Developing and integrating APIs to connect <strong>frontend, backend, and application services</strong>.
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🏗️ Application Architecture</h3>
+
+Designing <strong>reusable, scalable, and maintainable application structures</strong> with consistent routing, navigation, state management, and theming.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>♻️ Reusable Component Architecture</h3>
+
+Creating reusable components and patterns that improve <strong>maintainability, consistency, and development efficiency</strong>.
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🐞 Debugging & Troubleshooting</h3>
+
+Debugging across <strong>UI → State → API → Service → DAO → Database</strong> layers, including JSP, Backing Bean, SQL, and PL/SQL.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🤖 AI-powered Application Features</h3>
+
+Experience integrating <strong>chatbot, voice input/output, AI suggestions, and page automation</strong> into applications.
+
+</td>
+<td width="50%" valign="top">
+
+<h3>♿ Accessibility-focused UI</h3>
+
+Building <strong>responsive, accessible, usable, and user-focused interfaces</strong> across web applications.
 
 </td>
 </tr>
