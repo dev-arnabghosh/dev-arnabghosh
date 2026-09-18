@@ -372,6 +372,9 @@ I also enjoy **teaching, explaining difficult concepts, creating YouTube content
   <a href="https://www.facebook.com/thissideofarnab/">
     <img src="https://img.shields.io/badge/Facebook-This_Side_of_Arnab-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
+  <a href="https://x.com/thissideofarnab">
+    <img src="https://img.shields.io/badge/X-%40thissideofarnab-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
 </p>
 
 ---
