@@ -396,7 +396,6 @@ Whether it’s **software development, technology, learning, or collaboration**,
 
 # ⚡ Fun Facts
 
-|                         |                                                                                |
 | ----------------------- | ------------------------------------------------------------------------------ |
 | 🎓 **Teaching**         | I enjoy teaching and explaining difficult concepts in a simple way.            |
 | 🎥 **Content Creation** | I create YouTube content and enjoy documenting my learning journey.            |
