@@ -396,13 +396,58 @@ Whether it’s **software development, technology, learning, or collaboration**,
 
 # ⚡ Fun Facts
 
-| ----------------------- | ------------------------------------------------------------------------------ |
-| 🎓 **Teaching**         | I enjoy teaching and explaining difficult concepts in a simple way.            |
-| 🎥 **Content Creation** | I create YouTube content and enjoy documenting my learning journey.            |
-| 🏋️ **Fitness**         | I enjoy fitness and staying active.                                            |
-| 📚 **Learning**         | I genuinely enjoy learning new technologies and exploring new concepts.        |
-| 🎬 **Filmmaking**       | I’m interested in filmmaking and video creation.                               |
-| 💡 **Explaining Ideas** | I enjoy breaking down difficult concepts and making them easier to understand. |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Teaching
+
+I enjoy **teaching and explaining difficult concepts** in a simple and understandable way.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎥 Video Content Creation
+
+I create **educational and vlog-style video content** and enjoy documenting what I learn and experience.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏋️ Fitness
+
+I enjoy **fitness and staying active** as part of my lifestyle.
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Learning
+
+I genuinely enjoy **learning new technologies, exploring new concepts, and gaining knowledge**.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💡 Explaining Ideas
+
+I enjoy **breaking down difficult concepts** and finding simple ways to explain them.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 Creating Things
+
+I enjoy turning ideas into **software, educational content, and creative video projects**.
+
+</td>
+</tr>
+</table>
 
 ---
 
