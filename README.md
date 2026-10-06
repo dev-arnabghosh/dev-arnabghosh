@@ -18,7 +18,7 @@
 
 ### Full Stack Developer | Java | Spring Boot | React | React Native
 
-🌐 **Portfolio:** [dev-arnabghosh.vercel.app](https://dev-arnabghosh.vercel.app/)
+🌐 **Portfolio:** [arnabghosh.dev](https://arnabghosh.dev/)
 
 > **Building scalable web & mobile applications with Java, Spring Boot, React, React Native, and AI-powered features.**
 
@@ -386,8 +386,8 @@ I also enjoy **teaching, explaining difficult concepts, creating YouTube content
 Whether it’s **software development, technology, learning, or collaboration**, feel free to connect.
 
 <p align="left">
-  <a href="https://dev-arnabghosh.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-dev--arnabghosh.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://arnabghosh.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-arnabghosh.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/dev-arnabghosh">
     <img src="https://img.shields.io/badge/GitHub-dev--arnabghosh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
